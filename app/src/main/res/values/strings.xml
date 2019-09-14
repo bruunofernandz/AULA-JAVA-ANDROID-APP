@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SecondApp</string>
+    <string name="title">CALCULADORA IMC</string>
+    <string name="Calcular">Calcular</string>
+</resources>
